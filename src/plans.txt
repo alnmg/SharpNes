@@ -1,0 +1,34 @@
+this will be in portuguese because im too lazy to translate everything :P, so use google translate with you want to read my plans
+
+this will be changed time to time
+
+[ simbols
+
+    + > adicionar
+    - > remover
+    = > bugado / em testes
+    
+    * > observação
+    ! > atenção
+
+    # > concluido
+]
+
+
+1 - implementar instruões oficiais da CPU do nes
+
+2 - adicionar suporte a roms para poder rodar testes
+
+3 - tentar implementar PPU
+
+4 - implementar audio (APU)
+
+
+descrição
+ a ideia do emulador é ser bem preciso e 100% funcional
+ 
+ ideias:
+ + usar avolania com opengl/opentk (atualmente usara simplesmente SDL2 e OpenAL para o audio)
+ + ser um emulador estavel
+
+

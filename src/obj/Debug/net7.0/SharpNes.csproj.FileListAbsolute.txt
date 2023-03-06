@@ -1,0 +1,15 @@
+/home/allan/VSprojects/SharpNes/src/bin/Debug/net7.0/SharpNes
+/home/allan/VSprojects/SharpNes/src/bin/Debug/net7.0/SharpNes.deps.json
+/home/allan/VSprojects/SharpNes/src/bin/Debug/net7.0/SharpNes.runtimeconfig.json
+/home/allan/VSprojects/SharpNes/src/bin/Debug/net7.0/SharpNes.dll
+/home/allan/VSprojects/SharpNes/src/bin/Debug/net7.0/SharpNes.pdb
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.csproj.AssemblyReference.cache
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.GeneratedMSBuildEditorConfig.editorconfig
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.AssemblyInfoInputs.cache
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.AssemblyInfo.cs
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.csproj.CoreCompileInputs.cache
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.dll
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/refint/SharpNes.dll
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.pdb
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/SharpNes.genruntimeconfig.cache
+/home/allan/VSprojects/SharpNes/src/obj/Debug/net7.0/ref/SharpNes.dll
