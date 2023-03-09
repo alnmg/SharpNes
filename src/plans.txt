@@ -16,7 +16,9 @@ this will be changed time to time
 
 
 1 - implementar instruões oficiais da CPU do nes
-
+    + adcionar struct e enums para manusear instruões e seus estados
+    + adcionar uma lookup table para trabalhar com as instruções
+    + adicionar os metodos para executar cada intrução
 2 - adicionar suporte a roms para poder rodar testes
 
 3 - tentar implementar PPU

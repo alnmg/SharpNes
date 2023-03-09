@@ -2,6 +2,6 @@
 
 public class main{
     public static void Main(){
-        new BUS();
+        new AddressBUS();
     }
 }

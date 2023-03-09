@@ -5,8 +5,8 @@ namespace SharpNes.NES;
 /// </summary>
 public interface IComponent
 {
-    byte read(ushort address);
-    void write(ushort address, byte value);
-    bool IsReadOnly(int address);
+    byte Read(ushort address);
+    void Write(ushort address, byte value);
+    bool IsReadOnly();
     
 }
